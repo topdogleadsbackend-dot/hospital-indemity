@@ -5,7 +5,7 @@ import EligibilityForm from "./EligibilityForm";
 export default function Hero() {
   return (
     <section className="relative bg-white">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10 lg:py-16 grid lg:grid-cols-2 gap-10 items-start">
+      <div className="max-w-7xl mx-auto px-5 sm:px-6 lg:px-8 py-10 lg:py-16 grid lg:grid-cols-2 gap-10 items-start">
         {/* Left: copy + cover image */}
         <div>
           <h1 className="font-display font-semibold text-navy text-3xl sm:text-4xl lg:text-[2.6rem] leading-tight">
