@@ -9,7 +9,7 @@ export default function Hero() {
         {/* Left: copy + cover image */}
         <div>
           <h1 className="font-display font-semibold text-navy text-3xl sm:text-4xl lg:text-[2.6rem] leading-tight">
-            Protect Yourself From Unexpected{" "}
+            Protect  From Unexpected{" "}
             <span className="text-teal">Hospital Costs</span>
           </h1>
 
